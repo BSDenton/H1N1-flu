@@ -3,6 +3,7 @@
 This project was completed for an MSc module 'Data Science with Machine Learning'. The coursework specification asked that we design a research project involving the National 2009 H1N1 Flu Survey data. The only requirements were that we showed evidence of at least two approaches to data preprocessing, handling missing data, and modelling. The project received a grade of 80%.
 
 Full report can be viewed: https://github.com/BSDenton/H1N1-flu/blob/main/H1N1-Flu-Survey-Report.pdf
+
 Juptyer notebook can be viewed: https://github.com/BSDenton/H1N1-flu/blob/main/H1N1FluSurvey.ipynb
 
 ## Research Motivation
